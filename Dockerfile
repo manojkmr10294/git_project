@@ -1,4 +1,3 @@
-FROM ubuntu
 
 # Set the working directory in the image
 WORKDIR /django
